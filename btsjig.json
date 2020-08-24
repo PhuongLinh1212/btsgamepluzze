@@ -1,0 +1,24 @@
+{
+  "ads": {
+    "id_app": "",
+    "banner_setting": "ca-app-pub-3399710561924220/5543752017",
+    "inter_setting": "ca-app-pub-3399710561924220/7798573787",
+    "banner_main": "ca-app-pub-3399710561924220/2546247100",
+    "inter_main": "cca-app-pub-3399710561924220/2917588676",
+    "onlyAdmod": true,
+    "onlyFB": false
+  }, 
+  "app_exists": {
+    "id": "com.bts.kpop.BTSWorldGame",
+    "is_exists": true,
+    "is_show_more": true
+  },
+  "apps": [
+    {
+      "id": "com.new.siren.head.photo.editor.linh",
+      "icon": "https://lh3.googleusercontent.com/M9-JN7mrP8gNPdYBLp0BE4x5DEwoiU8WSRuAsZguddFGWkow-r5LSK7ghOGhXZUsNg=s360",
+      "name": "Siren Head Camera Photo Editor",
+      "des": "Hello siren head camera effects fans. Siren head photo editor is our new free app that provides creepy siren head effects for your photos."
+    }
+  ]
+}
