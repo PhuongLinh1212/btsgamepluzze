@@ -15,10 +15,16 @@
   },
   "apps": [
     {
-      "id": "com.new.siren.head.photo.editor.linh",
-      "icon": "https://lh3.googleusercontent.com/M9-JN7mrP8gNPdYBLp0BE4x5DEwoiU8WSRuAsZguddFGWkow-r5LSK7ghOGhXZUsNg=s360",
-      "name": "Siren Head Camera Photo Editor",
-      "des": "Hello siren head camera effects fans. Siren head photo editor is our new free app that provides creepy siren head effects for your photos."
+      "id": "com.bts.btsmessenger.btscall.callbts.btsidol",
+      "icon": "https://lh3.googleusercontent.com/-y0BAeXmYtvERGykkEuS0IQtr5DRkXA5F4JUkfHhBGNJmAgH-Aui13AKwqZDU_gSiLg=s360-rw",
+      "name": "BTS Video Call & Chat Simulator Prank",
+      "des": "BTS Video Call & bts message Simulator Prank you can be received call, livestream from all of BTS members. (Rm, Jungkook, Jin, Jimin, J-Hope, V or Suga), it is fascinating that we can have personal conversations with our bias."
+    },
+    {
+      "id": "com.videocall.scaryteacher.v2",
+      "icon": "https://lh3.googleusercontent.com/XMdWFr0sWpnqTNeh4DFJtBLqNv5X9BLvnKb5GIkEXUQREC9L_yMe44CvzPvCiBmWG2t-=s360-rw",
+      "name": "Scary Techer Video Call - Call Scary Techer Prank2",
+      "des": "Welcome to Scary Techer Video Call & Chat Simulator Prank2 this app will allow you to receive a call from your favorite scary Teacher 3d : gaveling gary, thierry teacher, kavita teacher, skier teacher..."
     }
   ]
 }
